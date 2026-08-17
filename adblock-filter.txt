@@ -3,7 +3,7 @@
 ! Homepage: https://adblock.yasserdivar.ir/
 ! Source: https://github.com/YasserDivaR/adblock
 ! Version: 1
-! Expires: 1 day
+! Expires: 10 day
 ! Last modified: (auto)
 !
 ! ---- یکتانت ----
