@@ -2,7 +2,7 @@
 # هر خط = یک دامنه
 # خط‌هایی که با یک # شروع می‌شوند نادیده گرفته می‌شوند (توضیح)
 # خط‌هایی که با ## شروع می‌شوند به‌عنوان عنوان گروه استفاده می‌شوند
-# منبع پایه: https://github.com/YasserDivaR/adblock
+# منبع پایه: https://github.com/farrokhi/adblock-iran
 
 ## یکتانت
 audience.yektanet.com
@@ -153,13 +153,11 @@ boorantech.com
 adtodate.ir
 
 ## تبلیغات درون ناشران بزرگ
-dsp.aparat.com
 adengine.telewebion.com
 hadeseh.telewebion.com
 a-banners.divarcdn.com
 adsc.beytoote.com
-biz-cdn.varzesh3.com
-biz.varzesh3.com
+
 
 ## ردیاب خطا و آنالیتیکس
 intrack.ir
@@ -183,6 +181,7 @@ candidatelogapi.jobvision.ir
 advertising.aparat.com
 ads.aparat.com
 stat.aparat.com
+dsp.aparat.com
 
 #ایران سایت
 banner.iransite.com
@@ -207,6 +206,8 @@ ads.digikala.com
 stat.varzesh3.com
 ads.varzesh3.com
 tracking.varzesh3.com
+biz-cdn.varzesh3.com
+biz.varzesh3.com
 
 ##کافه بازار
 api.cafebazaar.org
