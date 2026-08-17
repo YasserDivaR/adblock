@@ -1,0 +1,144 @@
+# لیست دامنه‌های شبکه‌های تبلیغاتی و ردیاب‌های ایرانی
+# هر خط = یک دامنه
+# خط‌هایی که با یک # شروع می‌شوند نادیده گرفته می‌شوند (توضیح)
+# خط‌هایی که با ## شروع می‌شوند به‌عنوان عنوان گروه استفاده می‌شوند
+# منبع پایه: https://github.com/farrokhi/adblock-iran
+
+## یکتانت
+yektanet.com
+cdn.yektanet.com
+ck.yektanet.com
+media.yektanet.com
+push.yektanet.com
+audience.yektanet.com
+prod.yektanet.com
+nfetch.yektanet.com
+rfetch.yektanet.com
+bfetch.yektanet.com
+scrapper.yektanet.com
+native.yektanet.com
+mostatil.yektanet.com
+
+## تپسل
+tapsell.ir
+api.tapsell.ir
+
+## مدیااد
+mediaad.org
+api.mediaad.org
+s1.mediaad.org
+s2.mediaad.org
+mediacdn.mediaad.org
+box.mediaad.org
+
+## صباویژن
+sabavision.com
+plus.sabavision.com
+
+## ادنگاه
+adnegah.net
+native.adnegah.net
+s.adnegah.net
+
+## کلیک‌یاب
+clickyab.com
+a.clickyab.com
+app.clickyab.com
+c.clickyab.com
+l.clickyab.com
+
+## ای‌نتورک
+anetwork.ir
+ad.anetwork.ir
+footprint.anetwork.ir
+static-cdn.anetwork.ir
+
+## متریکس و تحلیل ترافیک
+metrix.ir
+analytics.metrix.ir
+trc.metrix.ir
+webgozar.ir
+gostats.ir
+monster.gostats.ir
+persianstat.com
+persianstat.ir
+
+## پاپ‌آپ و پوش نوتیفیکیشن
+popupplus.ir
+popupha.com
+toppopup.com
+ipopup.ir
+irpopup.ir
+foxpush.net
+notificationclick.ir
+paypop.org
+poparya.com
+popland.info
+popupme.net
+popupads.ir
+popupaval.ir
+
+## سایر شبکه‌های تبلیغاتی
+adro.co
+affstat.adro.co
+ip.adro.co
+sanjagh.com
+sanjagh.net
+congoro.com
+widget.congoro.com
+kaprila.com
+sigmaad.com
+vatanclick.ir
+ssl.vatanclick.ir
+utop.ir
+ad.utop.ir
+hitplus.ir
+s.hitplus.ir
+r.hitplus.ir
+rzb.ir
+ads.rzb.ir
+s.adad.ir
+adserver.adad.ir
+androidads.ir
+balootads.ir
+clickyab.com
+fastclick.ir
+fastclick.co
+fastclick.click
+irandigitalads.com
+iranwebads.com
+magnetadservices.com
+mihanclick.info
+najva.com
+networksara.com
+nextads.ir
+nutnet.ir
+p30rank.ir
+persianrank.ir
+sigmaad.com
+ssads.net
+te1.ir
+vista.ir
+weclick.ir
+e.weclick.ir
+zarpop.com
+
+##تبلیغات سایت های خبری
+adexofiles.ir
+sp.shahin.live
+shahin.live
+ad.doubleclick.net
+doubleclick.net
+analyt.ir
+analytics.sepehrtv.ir
+sepehrtv.ir
+biscotti.yektanet.com
+cdn-publisher.digiad.ir
+digiad.ir
+client-reporter.yektanet.com
+matomo.iransamaneh.com
+vplus.sabavision.com
+api.boorantech.com
+boorantech.com
+mediaad.org
+24d.ir
