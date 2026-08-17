@@ -2,28 +2,31 @@
 # هر خط = یک دامنه
 # خط‌هایی که با یک # شروع می‌شوند نادیده گرفته می‌شوند (توضیح)
 # خط‌هایی که با ## شروع می‌شوند به‌عنوان عنوان گروه استفاده می‌شوند
-# منبع پایه: https://github.com/farrokhi/adblock-iran
+# منبع پایه: https://github.com/YasserDivaR/adblock
 
 ## یکتانت
-yektanet.com
+audience.yektanet.com
+bfetch.yektanet.com
+biscotti.yektanet.com
 cdn.yektanet.com
 ck.yektanet.com
-media.yektanet.com
-push.yektanet.com
-audience.yektanet.com
-prod.yektanet.com
-nfetch.yektanet.com
-rfetch.yektanet.com
-bfetch.yektanet.com
-scrapper.yektanet.com
-native.yektanet.com
-mostatil.yektanet.com
-biscotti.yektanet.com
+click.yektanet.com
 client-reporter.yektanet.com
+media.yektanet.com
+mostatil.yektanet.com
+native.yektanet.com
+nfetch.yektanet.com
+prod.yektanet.com
+push.yektanet.com
+rfetch.yektanet.com
+scrapper.yektanet.com
+yektanet.com
 
 ## تپسل
-tapsell.ir
+api.tapsell.com
 api.tapsell.ir
+cdn.tapsell.com
+tapsell.ir
 
 ## مدیااد
 mediaad.org
@@ -48,12 +51,6 @@ a.clickyab.com
 app.clickyab.com
 c.clickyab.com
 l.clickyab.com
-
-## ای‌نتورک
-anetwork.ir
-ad.anetwork.ir
-footprint.anetwork.ir
-static-cdn.anetwork.ir
 
 ## متریکس و تحلیل ترافیک
 metrix.ir
@@ -125,7 +122,7 @@ weclick.ir
 e.weclick.ir
 zarpop.com
 
-## سایر شبکه‌های تبلیغاتی (ادامه)
+## سایر شبکه‌های تبلیغاتی (2)
 adverge.ir
 popupdl.ir
 tavoos.net
@@ -140,6 +137,20 @@ ads.karzar.net
 adexo.ir
 binoads.ir
 yektabanner.com
+adexofiles.ir
+sp.shahin.live
+shahin.live
+ad.doubleclick.net
+doubleclick.net
+analytics.sepehrtv.ir
+sepehrtv.ir
+cdn-publisher.digiad.ir
+digiad.ir
+matomo.iransamaneh.com
+api.boorantech.com
+boorantech.com
+24d.ir
+adtodate.ir
 
 ## تبلیغات درون ناشران بزرگ
 dsp.aparat.com
@@ -168,18 +179,50 @@ tracker.digikala.com
 new-sentry.digikala.com
 candidatelogapi.jobvision.ir
 
-## سایر شبکه‌های تبلیغاتی
-adexofiles.ir
-sp.shahin.live
-shahin.live
-ad.doubleclick.net
-doubleclick.net
-analytics.sepehrtv.ir
-sepehrtv.ir
-cdn-publisher.digiad.ir
-digiad.ir
-matomo.iransamaneh.com
-api.boorantech.com
-boorantech.com
-24d.ir
+##آپارات
+advertising.aparat.com
+ads.aparat.com
+stat.aparat.com
+
+#ایران سایت
+banner.iransite.com
+click.iransite.com
+
+##نی نی سایت
+stat.ninisite.com
+ads.ninisite.com
+tracking.ninisite.com
+
+##زومیت
+stat.zoomit.ir
+ads.zoomit.ir
+tracking.zoomit.ir
+
+##دیجی کالا
+stat.digikala.com
+tracking.digikala.com
+ads.digikala.com
+
+##ورزش 3
+stat.varzesh3.com
+ads.varzesh3.com
+tracking.varzesh3.com
+
+##کافه بازار
+api.cafebazaar.org
+ads.cafebazaar.org
+static.cafebazaar.org
+tracking.cafebazaar.org
+app-measurement.com
+
+##سایت های خبری
+stat.tasnimnews.com
+ads.tasnimnews.com
+tracking.tasnimnews.com
+stat.isna.ir
+ads.isna.ir
 adtodate.ir
+tracking.isna.ir
+stat.mehrnews.com
+ads.mehrnews.com
+tracking.mehrnews.com
