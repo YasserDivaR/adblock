@@ -18,6 +18,8 @@ bfetch.yektanet.com
 scrapper.yektanet.com
 native.yektanet.com
 mostatil.yektanet.com
+biscotti.yektanet.com
+client-reporter.yektanet.com
 
 ## تپسل
 tapsell.ir
@@ -33,7 +35,7 @@ box.mediaad.org
 
 ## صباویژن
 sabavision.com
-plus.sabavision.com
+vplus.sabavision.com
 
 ## ادنگاه
 adnegah.net
@@ -123,22 +125,60 @@ weclick.ir
 e.weclick.ir
 zarpop.com
 
-##تبلیغات سایت های خبری
+## سایر شبکه‌های تبلیغاتی (ادامه)
+adverge.ir
+popupdl.ir
+tavoos.net
+chavosh.org
+adtrace.io
+pushe.co
+sorenad.com
+pelikan-network.ir
+yelloadwise.ir
+ylad.ir
+ads.karzar.net
+adexo.ir
+binoads.ir
+yektabanner.com
+
+## تبلیغات درون ناشران بزرگ
+dsp.aparat.com
+adengine.telewebion.com
+hadeseh.telewebion.com
+a-banners.divarcdn.com
+adsc.beytoote.com
+biz-cdn.varzesh3.com
+biz.varzesh3.com
+
+## ردیاب خطا و آنالیتیکس
+intrack.ir
+affilio.ir
+usermap.net
+analyticsdaily.ir
+trustseal.e-rasaneh.ir
+bl9.ir
+analyt.ir
+analytics.zoomit.ir
+sentry.sabaidea.cloud
+sentry.theforge.ir
+sentry.alaatv.com
+sentry.divar.cloud
+sentry.mci.dev
+tracker.digikala.com
+new-sentry.digikala.com
+candidatelogapi.jobvision.ir
+
+## سایر شبکه‌های تبلیغاتی (ادامه ۲)
 adexofiles.ir
 sp.shahin.live
 shahin.live
 ad.doubleclick.net
 doubleclick.net
-analyt.ir
 analytics.sepehrtv.ir
 sepehrtv.ir
-biscotti.yektanet.com
 cdn-publisher.digiad.ir
 digiad.ir
-client-reporter.yektanet.com
 matomo.iransamaneh.com
-vplus.sabavision.com
 api.boorantech.com
 boorantech.com
-mediaad.org
 24d.ir
