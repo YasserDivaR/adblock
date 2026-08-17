@@ -168,7 +168,7 @@ tracker.digikala.com
 new-sentry.digikala.com
 candidatelogapi.jobvision.ir
 
-## سایر شبکه‌های تبلیغاتی (ادامه ۲)
+## سایر شبکه‌های تبلیغاتی
 adexofiles.ir
 sp.shahin.live
 shahin.live
@@ -182,3 +182,4 @@ matomo.iransamaneh.com
 api.boorantech.com
 boorantech.com
 24d.ir
+adtodate.ir
