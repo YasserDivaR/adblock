@@ -1,0 +1,253 @@
+! Title: Iran Ad & Tracker Blocklist
+! Description: لیست فیلتر شبکه‌های تبلیغاتی و ردیاب‌های ایرانی - سازگار با uBlock Origin و AdGuard
+! Homepage: https://adblock.yasserdivar.ir/
+! Source: https://github.com/YasserDivaR/adblock
+! Version: 1
+! Expires: 1 day
+! Last modified: (auto)
+!
+! ---- یکتانت ----
+||yektanet.com^
+||cdn.yektanet.com^
+||ck.yektanet.com^
+||media.yektanet.com^
+||push.yektanet.com^
+||audience.yektanet.com^
+||prod.yektanet.com^
+||nfetch.yektanet.com^
+||rfetch.yektanet.com^
+||bfetch.yektanet.com^
+||scrapper.yektanet.com^
+||native.yektanet.com^
+||mostatil.yektanet.com^
+||biscotti.yektanet.com^
+||client-reporter.yektanet.com^
+! ---- تپسل ----
+||tapsell.ir^
+||api.tapsell.ir^
+! ---- مدیااد ----
+||mediaad.org^
+||api.mediaad.org^
+||s1.mediaad.org^
+||s2.mediaad.org^
+||mediacdn.mediaad.org^
+||box.mediaad.org^
+! ---- صباویژن ----
+||sabavision.com^
+||vplus.sabavision.com^
+! ---- ادنگاه ----
+||adnegah.net^
+||native.adnegah.net^
+||s.adnegah.net^
+! ---- کلیک‌یاب ----
+||clickyab.com^
+||a.clickyab.com^
+||app.clickyab.com^
+||c.clickyab.com^
+||l.clickyab.com^
+! ---- ای‌نتورک ----
+||anetwork.ir^
+||ad.anetwork.ir^
+||footprint.anetwork.ir^
+||static-cdn.anetwork.ir^
+! ---- متریکس و تحلیل ترافیک ----
+||metrix.ir^
+||analytics.metrix.ir^
+||trc.metrix.ir^
+||webgozar.ir^
+||gostats.ir^
+||monster.gostats.ir^
+||persianstat.com^
+||persianstat.ir^
+! ---- پاپ‌آپ و پوش نوتیفیکیشن ----
+||popupplus.ir^
+||popupha.com^
+||toppopup.com^
+||ipopup.ir^
+||irpopup.ir^
+||foxpush.net^
+||notificationclick.ir^
+||paypop.org^
+||poparya.com^
+||popland.info^
+||popupme.net^
+||popupads.ir^
+||popupaval.ir^
+! ---- سایر شبکه‌های تبلیغاتی ----
+||adro.co^
+||affstat.adro.co^
+||ip.adro.co^
+||sanjagh.com^
+||sanjagh.net^
+||congoro.com^
+||widget.congoro.com^
+||kaprila.com^
+||sigmaad.com^
+||vatanclick.ir^
+||ssl.vatanclick.ir^
+||utop.ir^
+||ad.utop.ir^
+||hitplus.ir^
+||s.hitplus.ir^
+||r.hitplus.ir^
+||rzb.ir^
+||ads.rzb.ir^
+||s.adad.ir^
+||adserver.adad.ir^
+||androidads.ir^
+||balootads.ir^
+||clickyab.com^
+||fastclick.ir^
+||fastclick.co^
+||fastclick.click^
+||irandigitalads.com^
+||iranwebads.com^
+||magnetadservices.com^
+||mihanclick.info^
+||najva.com^
+||networksara.com^
+||nextads.ir^
+||nutnet.ir^
+||p30rank.ir^
+||persianrank.ir^
+||sigmaad.com^
+||ssads.net^
+||te1.ir^
+||vista.ir^
+||weclick.ir^
+||e.weclick.ir^
+||zarpop.com^
+! ---- سایر شبکه‌های تبلیغاتی (ادامه) ----
+||adverge.ir^
+||popupdl.ir^
+||tavoos.net^
+||chavosh.org^
+||adtrace.io^
+||pushe.co^
+||sorenad.com^
+||pelikan-network.ir^
+||yelloadwise.ir^
+||ylad.ir^
+||ads.karzar.net^
+||adexo.ir^
+||binoads.ir^
+||yektabanner.com^
+! ---- تبلیغات درون ناشران بزرگ ----
+||dsp.aparat.com^
+||adengine.telewebion.com^
+||hadeseh.telewebion.com^
+||a-banners.divarcdn.com^
+||adsc.beytoote.com^
+||biz-cdn.varzesh3.com^
+||biz.varzesh3.com^
+! ---- ردیاب خطا و آنالیتیکس ----
+||intrack.ir^
+||affilio.ir^
+||usermap.net^
+||analyticsdaily.ir^
+||trustseal.e-rasaneh.ir^
+||bl9.ir^
+||analyt.ir^
+||analytics.zoomit.ir^
+||sentry.sabaidea.cloud^
+||sentry.theforge.ir^
+||sentry.alaatv.com^
+||sentry.divar.cloud^
+||sentry.mci.dev^
+||tracker.digikala.com^
+||new-sentry.digikala.com^
+||candidatelogapi.jobvision.ir^
+! ---- سایر شبکه‌های تبلیغاتی (ادامه ۲) ----
+||adexofiles.ir^
+||sp.shahin.live^
+||shahin.live^
+||ad.doubleclick.net^
+||doubleclick.net^
+||analytics.sepehrtv.ir^
+||sepehrtv.ir^
+||cdn-publisher.digiad.ir^
+||digiad.ir^
+||matomo.iransamaneh.com^
+||api.boorantech.com^
+||boorantech.com^
+||24d.ir^
+||adtodate.ir^
+! ---- کافه‌بازار و آپارات ----
+||ads.cafebazaar.org^
+||static.cafebazaar.org^
+||tracking.cafebazaar.org^
+||api.cafebazaar.org^
+||advertising.aparat.com^
+||ads.aparat.com^
+||stat.aparat.com^
+! ---- تپسل و یکتانت (ادامه) ----
+||cdn.tapsell.com^
+||api.tapsell.com^
+||click.yektanet.com^
+! ---- ای‌نتورک (ادامه) ----
+||ads.anetwork.ir^
+||banner.anetwork.ir^
+! ---- سماندهی ----
+||samandehi.ir^
+||analytics.samandehi.ir^
+||stat.samandehi.ir^
+! ---- سی‌دی‌ان موب ----
+||ad.cdnmob.ir^
+||ads.cdnmob.ir^
+||tracking.cdnmob.ir^
+! ---- ای‌دی‌ایکس ----
+||rtb.adx.ir^
+||adserver.adx.ir^
+||stats.adx.ir^
+! ---- ایران‌سایت ----
+||ad.iransite.com^
+||banner.iransite.com^
+||click.iransite.com^
+! ---- نی‌نی‌سایت ----
+||stat.ninisite.com^
+||ads.ninisite.com^
+||tracking.ninisite.com^
+! ---- زومیت (ادامه) ----
+||stat.zoomit.ir^
+||ads.zoomit.ir^
+||tracking.zoomit.ir^
+! ---- دیجی‌کالا (ادامه) ----
+||stat.digikala.com^
+||tracking.digikala.com^
+||ads.digikala.com^
+! ---- ورزش۳ (ادامه) ----
+||stat.varzesh3.com^
+||ads.varzesh3.com^
+||tracking.varzesh3.com^
+! ---- خبرگزاری‌ها ----
+||stat.tasnimnews.com^
+||ads.tasnimnews.com^
+||tracking.tasnimnews.com^
+||stat.isna.ir^
+||ads.isna.ir^
+||tracking.isna.ir^
+||stat.mehrnews.com^
+||ads.mehrnews.com^
+||tracking.mehrnews.com^
+! ---- شبکه‌های تبلیغاتی و آنالیتیکس بین‌المللی (استفاده‌شده در اپ‌های ایرانی) ----
+||adservice.google.com^
+||pagead2.googlesyndication.com^
+||googleads.g.doubleclick.net^
+||stats.clicky.com^
+||mc.yandex.ru^
+||cdn.taboola.com^
+||trc.taboola.com^
+||cdn.outbrain.com^
+||tracking.outbrain.com^
+||app-measurement.com^
+||firebase-settings.crashlytics.com^
+||crashlytics.com^
+||app.adjust.com^
+||sdk.adjust.com^
+||track.adjust.com^
+||appmetrica.yandex.com^
+||sdk.appmetrica.yandex.com^
+||stats.appmetrica.yandex.com^
+||api.branch.io^
+||cdn.branch.io^
+||track.branch.io^
