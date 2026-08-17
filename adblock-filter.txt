@@ -6,51 +6,42 @@
 ! Expires: 10 day
 ! Last modified: (auto)
 !
-! ---- یکتانت ----
-||yektanet.com^
+||audience.yektanet.com^
+||bfetch.yektanet.com^
+||biscotti.yektanet.com^
 ||cdn.yektanet.com^
 ||ck.yektanet.com^
-||media.yektanet.com^
-||push.yektanet.com^
-||audience.yektanet.com^
-||prod.yektanet.com^
-||nfetch.yektanet.com^
-||rfetch.yektanet.com^
-||bfetch.yektanet.com^
-||scrapper.yektanet.com^
-||native.yektanet.com^
-||mostatil.yektanet.com^
-||biscotti.yektanet.com^
+||click.yektanet.com^
 ||client-reporter.yektanet.com^
-! ---- تپسل ----
-||tapsell.ir^
+||media.yektanet.com^
+||mostatil.yektanet.com^
+||native.yektanet.com^
+||nfetch.yektanet.com^
+||prod.yektanet.com^
+||push.yektanet.com^
+||rfetch.yektanet.com^
+||scrapper.yektanet.com^
+||yektanet.com^
+||api.tapsell.com^
 ||api.tapsell.ir^
-! ---- مدیااد ----
+||cdn.tapsell.com^
+||tapsell.ir^
 ||mediaad.org^
 ||api.mediaad.org^
 ||s1.mediaad.org^
 ||s2.mediaad.org^
 ||mediacdn.mediaad.org^
 ||box.mediaad.org^
-! ---- صباویژن ----
 ||sabavision.com^
 ||vplus.sabavision.com^
-! ---- ادنگاه ----
 ||adnegah.net^
 ||native.adnegah.net^
 ||s.adnegah.net^
-! ---- کلیک‌یاب ----
 ||clickyab.com^
 ||a.clickyab.com^
 ||app.clickyab.com^
 ||c.clickyab.com^
 ||l.clickyab.com^
-! ---- ای‌نتورک ----
-||anetwork.ir^
-||ad.anetwork.ir^
-||footprint.anetwork.ir^
-||static-cdn.anetwork.ir^
-! ---- متریکس و تحلیل ترافیک ----
 ||metrix.ir^
 ||analytics.metrix.ir^
 ||trc.metrix.ir^
@@ -59,7 +50,6 @@
 ||monster.gostats.ir^
 ||persianstat.com^
 ||persianstat.ir^
-! ---- پاپ‌آپ و پوش نوتیفیکیشن ----
 ||popupplus.ir^
 ||popupha.com^
 ||toppopup.com^
@@ -73,7 +63,6 @@
 ||popupme.net^
 ||popupads.ir^
 ||popupaval.ir^
-! ---- سایر شبکه‌های تبلیغاتی ----
 ||adro.co^
 ||affstat.adro.co^
 ||ip.adro.co^
@@ -117,7 +106,6 @@
 ||weclick.ir^
 ||e.weclick.ir^
 ||zarpop.com^
-! ---- سایر شبکه‌های تبلیغاتی (ادامه) ----
 ||adverge.ir^
 ||popupdl.ir^
 ||tavoos.net^
@@ -132,7 +120,20 @@
 ||adexo.ir^
 ||binoads.ir^
 ||yektabanner.com^
-! ---- تبلیغات درون ناشران بزرگ ----
+||adexofiles.ir^
+||sp.shahin.live^
+||shahin.live^
+||ad.doubleclick.net^
+||doubleclick.net^
+||analytics.sepehrtv.ir^
+||sepehrtv.ir^
+||cdn-publisher.digiad.ir^
+||digiad.ir^
+||matomo.iransamaneh.com^
+||api.boorantech.com^
+||boorantech.com^
+||24d.ir^
+||adtodate.ir^
 ||dsp.aparat.com^
 ||adengine.telewebion.com^
 ||hadeseh.telewebion.com^
@@ -140,7 +141,6 @@
 ||adsc.beytoote.com^
 ||biz-cdn.varzesh3.com^
 ||biz.varzesh3.com^
-! ---- ردیاب خطا و آنالیتیکس ----
 ||intrack.ir^
 ||affilio.ir^
 ||usermap.net^
@@ -157,79 +157,39 @@
 ||tracker.digikala.com^
 ||new-sentry.digikala.com^
 ||candidatelogapi.jobvision.ir^
-! ---- سایر شبکه‌های تبلیغاتی (ادامه ۲) ----
-||adexofiles.ir^
-||sp.shahin.live^
-||shahin.live^
-||ad.doubleclick.net^
-||doubleclick.net^
-||analytics.sepehrtv.ir^
-||sepehrtv.ir^
-||cdn-publisher.digiad.ir^
-||digiad.ir^
-||matomo.iransamaneh.com^
-||api.boorantech.com^
-||boorantech.com^
-||24d.ir^
-||adtodate.ir^
-! ---- کافه‌بازار و آپارات ----
-||ads.cafebazaar.org^
-||static.cafebazaar.org^
-||tracking.cafebazaar.org^
-||api.cafebazaar.org^
 ||advertising.aparat.com^
 ||ads.aparat.com^
 ||stat.aparat.com^
-! ---- تپسل و یکتانت (ادامه) ----
-||cdn.tapsell.com^
-||api.tapsell.com^
-||click.yektanet.com^
-! ---- ای‌نتورک (ادامه) ----
-||ads.anetwork.ir^
-||banner.anetwork.ir^
-! ---- سماندهی ----
-||samandehi.ir^
-||analytics.samandehi.ir^
-||stat.samandehi.ir^
-! ---- سی‌دی‌ان موب ----
-||ad.cdnmob.ir^
-||ads.cdnmob.ir^
-||tracking.cdnmob.ir^
-! ---- ای‌دی‌ایکس ----
-||rtb.adx.ir^
-||adserver.adx.ir^
-||stats.adx.ir^
-! ---- ایران‌سایت ----
-||ad.iransite.com^
 ||banner.iransite.com^
 ||click.iransite.com^
-! ---- نی‌نی‌سایت ----
 ||stat.ninisite.com^
 ||ads.ninisite.com^
 ||tracking.ninisite.com^
-! ---- زومیت (ادامه) ----
 ||stat.zoomit.ir^
 ||ads.zoomit.ir^
 ||tracking.zoomit.ir^
-! ---- دیجی‌کالا (ادامه) ----
 ||stat.digikala.com^
 ||tracking.digikala.com^
 ||ads.digikala.com^
-! ---- ورزش۳ (ادامه) ----
 ||stat.varzesh3.com^
 ||ads.varzesh3.com^
 ||tracking.varzesh3.com^
-! ---- خبرگزاری‌ها ----
+||api.cafebazaar.org^
+||ads.cafebazaar.org^
+||static.cafebazaar.org^
+||tracking.cafebazaar.org^
+||app-measurement.com^
 ||stat.tasnimnews.com^
 ||ads.tasnimnews.com^
 ||tracking.tasnimnews.com^
 ||stat.isna.ir^
 ||ads.isna.ir^
+||adtodate.ir^
 ||tracking.isna.ir^
 ||stat.mehrnews.com^
 ||ads.mehrnews.com^
 ||tracking.mehrnews.com^
-! ---- شبکه‌های تبلیغاتی و آنالیتیکس بین‌المللی (استفاده‌شده در اپ‌های ایرانی) ----
+
 ||adservice.google.com^
 ||pagead2.googlesyndication.com^
 ||googleads.g.doubleclick.net^
