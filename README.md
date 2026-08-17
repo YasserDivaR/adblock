@@ -16,3 +16,6 @@ https://cdn.jsdelivr.net/gh/YasserDivaR/adblock@main/adblock-filter.txt
 یا
 
 https://raw.githubusercontent.com/YasserDivaR/adblock/refs/heads/main/adblock-filter.txt
+
+
+پروژه در حال تکمیل شدن می باشد
