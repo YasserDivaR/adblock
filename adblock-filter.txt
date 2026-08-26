@@ -2,8 +2,8 @@
 ! Description: لیست فیلتر شبکه‌های تبلیغاتی و ردیاب‌های ایرانی - سازگار با uBlock Origin و AdGuard
 ! Homepage: https://adblock.yasserdivar.ir/
 ! Source: https://github.com/YasserDivaR/adblock
-! Version: 2
-! Expires: 10 day
+! Version: 3
+! Expires: 5 day
 ! Last modified: (auto)
 !
 
