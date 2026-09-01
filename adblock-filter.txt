@@ -407,9 +407,7 @@
 ! === سایر ناشران بزرگ ===
 ||adsc.beytoote.com^
 ||linkdoni.soft98.ir^
-||sepehrtv.ir^
 ||tracker.farsnews.ir^
-||vista.ir^
 
 ! === سایت های خبری ===
 ||ads.isna.ir^
